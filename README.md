@@ -1,0 +1,2 @@
+# jqs
+Just Query Selector
