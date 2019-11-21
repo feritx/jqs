@@ -9,4 +9,6 @@ var jqs=function(css){
   
   //it will work like jquery without storage
   
+  //hamaninnnn buda master branch olcek
+  
 }
