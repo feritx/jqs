@@ -7,6 +7,8 @@ var jqs=function(css){
 	}
   return document.querySelectorAll(css);
   
+  //bu experimantel branch a ait
+  
   //it will work like jquery without storage
   
   //hamaninnnn buda master branch olcek
